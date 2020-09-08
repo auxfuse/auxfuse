@@ -26,7 +26,7 @@ together too, and hopefully will be handed over and deployed in the near future.
 </details>
 
 My current niche marketplace is that of Health and Fitness and I just thoroughly enjoy helping those in these fields have a unique
-stack with their brand in the web or to use amongst their own members. As a member of such a high class Strength & Conditioning gym,
+stake with their brand in the web or to use amongst their own members. As a member of such a high class Strength & Conditioning gym,
 good user experience is vital to ensure user retention and high customer retain base. I hope to grow as a freelance dev and continue
 to assist those in this market for a long time.
 
