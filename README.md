@@ -1,10 +1,10 @@
-### I'm Fuse.....
+## I'm Fuse
 
-[![Hello 👋🏻](https://pbs.twimg.com/profile_banners/853889436/1529271346/1500x500)][1]
+[Hello 👋🏻](https://pbs.twimg.com/profile_banners/853889436/1529271346/1500x500)]
 
 ### My Dev Anatomy :space_invader:
 
-My name is Anthony, but most of my online personas consist of me being called "Auxfuse". :smiley:
+My name is Anthony, but most of my online personas consist of me being called "Auxfuse" or "Fuse". :smiley:
 
 
 I'm a recent Full Stack Software Developer Graduate from Code Institute (graduated Apr 2020) and I have a special place in my
@@ -29,4 +29,4 @@ _If you want to reach out and get in touch_
 * [My Twitter](https://twitter.com/Auxfuse "Twitter")
 * [my Instagram](https://www.instagram.com/auxfuse/ "Instagram")
 
-I'm Fuse :punch: Welcome to my Github Profile :octocat: This is where I learn and sell myself as a dev. Always learning :school: never settling!
+Hobbyist in so many things, :punch:. Welcome to my Github Profile :octocat: where I learn and sell myself as a dev. Always a student :school: never settling!
