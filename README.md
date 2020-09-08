@@ -1,16 +1,16 @@
 ## I'm Fuse
 
-[Hello 👋🏻](https://pbs.twimg.com/profile_banners/853889436/1529271346/1500x500)]
-
-### My Dev Anatomy :space_invader:
-
 My name is Anthony, but most of my online personas consist of me being called "Auxfuse" or "Fuse". :smiley:
 
+<p align="center">
+  <img src="https://pbs.twimg.com/profile_banners/853889436/1529271346/1500x500" alt="PHP Logo">
+</p>
+
+### My Dev Anatomy :space_invader:
 
 I'm a recent Full Stack Software Developer Graduate from Code Institute (graduated Apr 2020) and I have a special place in my
 heart for all things CSS and Frontend Design in general. So much so I'm currently expanding on these aspects in other online
 courses and material and applying them as much as I can.
-
 
 Currently working on my first freelance web dev project for two local Personal Trainers, for which I also based my final
 project for CI on, and this freelance project is being developed in Django/PostgreSQL with HTML/CSS/Bootstrap/JS. It's coming
@@ -22,7 +22,6 @@ together too, and hopefully will be handed over and deployed in the near future.
       <img src="https://pbs.twimg.com/profile_images/1302523577929957382/VabGvtGz_400x400.jpg" alt="PHP Logo">
     </p>
 </details>
-
 
 #### My Socials:
 _If you want to reach out and get in touch_
