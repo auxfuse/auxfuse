@@ -1,4 +1,4 @@
-## I'm Fuse
+## :large_orange_diamond: :small_orange_diamond: I'm Fuse :small_orange_diamond: :large_orange_diamond:
 
 My name is Anthony, but most of my online personas consist of me being called "Auxfuse" or "Fuse". :smiley:
 
@@ -12,9 +12,11 @@ I'm a recent Full Stack Software Developer Graduate from Code Institute (graduat
 heart for all things CSS and Frontend Design in general. So much so I'm currently expanding on these aspects in other online
 courses and material and applying them as much as I can.
 
+Currently getting stuck into SCSS :heart_eyes: and forever getting stuck learning Javascript :see_no_evil:
+
 Currently working on my first freelance web dev project for two local Personal Trainers, for which I also based my final
 project for CI on, and this freelance project is being developed in Django/PostgreSQL with HTML/CSS/Bootstrap/JS. It's coming
-together too, and hopefully will be handed over and deployed in the near future. 
+together too, and hopefully will be handed over and deployed in the near future.
 
 <details>
     <summary>Luckily, I also train there as an Olympic Weightlifter and Crossfitter....I mean, take a look for yourself...at your own risk. </summary>
@@ -23,9 +25,14 @@ together too, and hopefully will be handed over and deployed in the near future.
     </p>
 </details>
 
+My current niche marketplace is that of Health and Fitness and I just thoroughly enjoy helping those in these fields have a unique
+stack with their brand in the web or to use amongst their own members. As a member of such a high class Strength & Conditioning gym,
+good user experience is vital to ensure user retention and high customer retain base. I hope to grow as a freelance dev and continue
+to assist those in this market for a long time.
+
 #### My Socials:
 _If you want to reach out and get in touch_
-* [My Twitter](https://twitter.com/Auxfuse "Twitter")
-* [my Instagram](https://www.instagram.com/auxfuse/ "Instagram")
+* [Twitter](https://twitter.com/Auxfuse "Twitter")
+* [Instagram](https://www.instagram.com/auxfuse/ "Instagram")
 
 Hobbyist in so many things, :punch:. Welcome to my Github Profile :octocat: where I learn and sell myself as a dev. Always a student :school: never settling!
