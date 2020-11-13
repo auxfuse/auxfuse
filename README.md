@@ -30,6 +30,8 @@ stake with their brand in the web or to use amongst their own members. As a memb
 good user experience is vital to ensure user retention and high customer retain base. I hope to grow as a freelance dev and continue
 to assist those in this market for a long time.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auxfuse&layout=compact)](https://github.com/auxfuse)
+
 ![auxfuse on GitHb](https://github-readme-stats.vercel.app/api?username=auxfuse&show_icons=true?count_private=true&icon_color=28dbb1&bg_color=990fc7&title_color=f3e72e&text_color=ffffff)
 
 #### My Socials:
